@@ -16,7 +16,7 @@ else
 fi
 # 设置城市和相应的stream
 case $city_choice in
-    6)
+    1)
         city="江苏电信"
         stream="rtp/239.49.8.118:8000"
         ;;
