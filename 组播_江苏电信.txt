@@ -1,24 +1,24 @@
 江苏电信-组播,#genre#
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
-http://114.221.44.25:8888/rtp/239.49.8.107:8000
+http://114.221.44.117:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
-http://114.221.44.25:8888/rtp/239.49.8.108:8000
+http://114.221.44.117:8888/rtp/239.49.8.108:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://www.yangfeiyue.cn/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
-http://114.221.44.25:8888/rtp/239.49.8.117:8000
+http://114.221.44.117:8888/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://www.yangfeiyue.cn/tv/江苏影视.png" group-title="卫视高清",江苏影视
-http://114.221.44.25:8888/rtp/239.49.8.118:8000
+http://114.221.44.117:8888/rtp/239.49.8.118:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://www.yangfeiyue.cn/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
-http://114.221.44.25:8888/rtp/239.49.8.120:8000
+http://114.221.44.117:8888/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://www.yangfeiyue.cn/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
-http://114.221.44.25:8888/rtp/239.49.8.122:8000
+http://114.221.44.117:8888/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://www.yangfeiyue.cn/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
-http://114.221.44.25:8888/rtp/239.49.8.119:8000
+http://114.221.44.117:8888/rtp/239.49.8.119:8000
 #EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://www.yangfeiyue.cn/tv/文物宝库.png" group-title="卫视高清",文物宝库
-http://114.221.44.25:8888/rtp/239.49.0.209:8000
+http://114.221.44.117:8888/rtp/239.49.0.209:8000
 #EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
-http://114.221.44.25:8888/rtp/239.49.0.214:8000
+http://114.221.44.117:8888/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
-http://114.221.44.25:8888/rtp/239.49.8.30:8000
+http://114.221.44.117:8888/rtp/239.49.8.30:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://114.226.16.242:4022/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -160,26 +160,6 @@ http://117.95.165.238:8800/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
 http://117.95.165.238:8800/rtp/239.49.8.30:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
-http://121.233.135.132:4022/rtp/239.49.8.107:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
-http://121.233.135.132:4022/rtp/239.49.8.108:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://www.yangfeiyue.cn/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
-http://121.233.135.132:4022/rtp/239.49.8.117:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://www.yangfeiyue.cn/tv/江苏影视.png" group-title="卫视高清",江苏影视
-http://121.233.135.132:4022/rtp/239.49.8.118:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://www.yangfeiyue.cn/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
-http://121.233.135.132:4022/rtp/239.49.8.120:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://www.yangfeiyue.cn/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
-http://121.233.135.132:4022/rtp/239.49.8.122:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://www.yangfeiyue.cn/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
-http://121.233.135.132:4022/rtp/239.49.8.119:8000
-#EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://www.yangfeiyue.cn/tv/文物宝库.png" group-title="卫视高清",文物宝库
-http://121.233.135.132:4022/rtp/239.49.0.209:8000
-#EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
-http://121.233.135.132:4022/rtp/239.49.0.214:8000
-#EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
-http://121.233.135.132:4022/rtp/239.49.8.30:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://121.233.142.6:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
 http://121.233.142.6:8888/rtp/239.49.8.108:8000
@@ -199,46 +179,6 @@ http://121.233.142.6:8888/rtp/239.49.0.209:8000
 http://121.233.142.6:8888/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
 http://121.233.142.6:8888/rtp/239.49.8.30:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
-http://121.233.184.186:8888/rtp/239.49.8.107:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
-http://121.233.184.186:8888/rtp/239.49.8.108:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://www.yangfeiyue.cn/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
-http://121.233.184.186:8888/rtp/239.49.8.117:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://www.yangfeiyue.cn/tv/江苏影视.png" group-title="卫视高清",江苏影视
-http://121.233.184.186:8888/rtp/239.49.8.118:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://www.yangfeiyue.cn/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
-http://121.233.184.186:8888/rtp/239.49.8.120:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://www.yangfeiyue.cn/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
-http://121.233.184.186:8888/rtp/239.49.8.122:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://www.yangfeiyue.cn/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
-http://121.233.184.186:8888/rtp/239.49.8.119:8000
-#EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://www.yangfeiyue.cn/tv/文物宝库.png" group-title="卫视高清",文物宝库
-http://121.233.184.186:8888/rtp/239.49.0.209:8000
-#EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
-http://121.233.184.186:8888/rtp/239.49.0.214:8000
-#EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
-http://121.233.184.186:8888/rtp/239.49.8.30:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
-http://121.237.246.98:8888/rtp/239.49.8.107:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
-http://121.237.246.98:8888/rtp/239.49.8.108:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://www.yangfeiyue.cn/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
-http://121.237.246.98:8888/rtp/239.49.8.117:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://www.yangfeiyue.cn/tv/江苏影视.png" group-title="卫视高清",江苏影视
-http://121.237.246.98:8888/rtp/239.49.8.118:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://www.yangfeiyue.cn/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
-http://121.237.246.98:8888/rtp/239.49.8.120:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://www.yangfeiyue.cn/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
-http://121.237.246.98:8888/rtp/239.49.8.122:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://www.yangfeiyue.cn/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
-http://121.237.246.98:8888/rtp/239.49.8.119:8000
-#EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://www.yangfeiyue.cn/tv/文物宝库.png" group-title="卫视高清",文物宝库
-http://121.237.246.98:8888/rtp/239.49.0.209:8000
-#EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
-http://121.237.246.98:8888/rtp/239.49.0.214:8000
-#EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
-http://121.237.246.98:8888/rtp/239.49.8.30:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://121.237.37.84:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -260,25 +200,25 @@ http://121.237.37.84:8888/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
 http://121.237.37.84:8888/rtp/239.49.8.30:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
-http://180.105.201.50:4000/rtp/239.49.8.107:8000
+http://180.105.81.17:4000/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
-http://180.105.201.50:4000/rtp/239.49.8.108:8000
+http://180.105.81.17:4000/rtp/239.49.8.108:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://www.yangfeiyue.cn/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
-http://180.105.201.50:4000/rtp/239.49.8.117:8000
+http://180.105.81.17:4000/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://www.yangfeiyue.cn/tv/江苏影视.png" group-title="卫视高清",江苏影视
-http://180.105.201.50:4000/rtp/239.49.8.118:8000
+http://180.105.81.17:4000/rtp/239.49.8.118:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://www.yangfeiyue.cn/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
-http://180.105.201.50:4000/rtp/239.49.8.120:8000
+http://180.105.81.17:4000/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://www.yangfeiyue.cn/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
-http://180.105.201.50:4000/rtp/239.49.8.122:8000
+http://180.105.81.17:4000/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://www.yangfeiyue.cn/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
-http://180.105.201.50:4000/rtp/239.49.8.119:8000
+http://180.105.81.17:4000/rtp/239.49.8.119:8000
 #EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://www.yangfeiyue.cn/tv/文物宝库.png" group-title="卫视高清",文物宝库
-http://180.105.201.50:4000/rtp/239.49.0.209:8000
+http://180.105.81.17:4000/rtp/239.49.0.209:8000
 #EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
-http://180.105.201.50:4000/rtp/239.49.0.214:8000
+http://180.105.81.17:4000/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
-http://180.105.201.50:4000/rtp/239.49.8.30:8000
+http://180.105.81.17:4000/rtp/239.49.8.30:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://180.105.84.218:4000/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -300,6 +240,46 @@ http://180.105.84.218:4000/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
 http://180.105.84.218:4000/rtp/239.49.8.30:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
+http://180.110.159.163:8888/rtp/239.49.8.107:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
+http://180.110.159.163:8888/rtp/239.49.8.108:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://www.yangfeiyue.cn/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
+http://180.110.159.163:8888/rtp/239.49.8.117:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://www.yangfeiyue.cn/tv/江苏影视.png" group-title="卫视高清",江苏影视
+http://180.110.159.163:8888/rtp/239.49.8.118:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://www.yangfeiyue.cn/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
+http://180.110.159.163:8888/rtp/239.49.8.120:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://www.yangfeiyue.cn/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
+http://180.110.159.163:8888/rtp/239.49.8.122:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://www.yangfeiyue.cn/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
+http://180.110.159.163:8888/rtp/239.49.8.119:8000
+#EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://www.yangfeiyue.cn/tv/文物宝库.png" group-title="卫视高清",文物宝库
+http://180.110.159.163:8888/rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
+http://180.110.159.163:8888/rtp/239.49.0.214:8000
+#EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
+http://180.110.159.163:8888/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
+http://180.110.159.165:8888/rtp/239.49.8.107:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
+http://180.110.159.165:8888/rtp/239.49.8.108:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://www.yangfeiyue.cn/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
+http://180.110.159.165:8888/rtp/239.49.8.117:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://www.yangfeiyue.cn/tv/江苏影视.png" group-title="卫视高清",江苏影视
+http://180.110.159.165:8888/rtp/239.49.8.118:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://www.yangfeiyue.cn/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
+http://180.110.159.165:8888/rtp/239.49.8.120:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://www.yangfeiyue.cn/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
+http://180.110.159.165:8888/rtp/239.49.8.122:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://www.yangfeiyue.cn/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
+http://180.110.159.165:8888/rtp/239.49.8.119:8000
+#EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://www.yangfeiyue.cn/tv/文物宝库.png" group-title="卫视高清",文物宝库
+http://180.110.159.165:8888/rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
+http://180.110.159.165:8888/rtp/239.49.0.214:8000
+#EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
+http://180.110.159.165:8888/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://180.111.31.174:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
 http://180.111.31.174:8888/rtp/239.49.8.108:8000
@@ -319,26 +299,6 @@ http://180.111.31.174:8888/rtp/239.49.0.209:8000
 http://180.111.31.174:8888/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
 http://180.111.31.174:8888/rtp/239.49.8.30:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
-http://180.114.192.4:4000/rtp/239.49.8.107:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
-http://180.114.192.4:4000/rtp/239.49.8.108:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://www.yangfeiyue.cn/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
-http://180.114.192.4:4000/rtp/239.49.8.117:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://www.yangfeiyue.cn/tv/江苏影视.png" group-title="卫视高清",江苏影视
-http://180.114.192.4:4000/rtp/239.49.8.118:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://www.yangfeiyue.cn/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
-http://180.114.192.4:4000/rtp/239.49.8.120:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://www.yangfeiyue.cn/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
-http://180.114.192.4:4000/rtp/239.49.8.122:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://www.yangfeiyue.cn/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
-http://180.114.192.4:4000/rtp/239.49.8.119:8000
-#EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://www.yangfeiyue.cn/tv/文物宝库.png" group-title="卫视高清",文物宝库
-http://180.114.192.4:4000/rtp/239.49.0.209:8000
-#EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
-http://180.114.192.4:4000/rtp/239.49.0.214:8000
-#EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
-http://180.114.192.4:4000/rtp/239.49.8.30:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://180.114.220.137:4000/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -360,25 +320,25 @@ http://180.114.220.137:4000/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
 http://180.114.220.137:4000/rtp/239.49.8.30:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
-http://180.119.6.77:4022/rtp/239.49.8.107:8000
+http://180.119.124.90:4022/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
-http://180.119.6.77:4022/rtp/239.49.8.108:8000
+http://180.119.124.90:4022/rtp/239.49.8.108:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://www.yangfeiyue.cn/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
-http://180.119.6.77:4022/rtp/239.49.8.117:8000
+http://180.119.124.90:4022/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://www.yangfeiyue.cn/tv/江苏影视.png" group-title="卫视高清",江苏影视
-http://180.119.6.77:4022/rtp/239.49.8.118:8000
+http://180.119.124.90:4022/rtp/239.49.8.118:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://www.yangfeiyue.cn/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
-http://180.119.6.77:4022/rtp/239.49.8.120:8000
+http://180.119.124.90:4022/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://www.yangfeiyue.cn/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
-http://180.119.6.77:4022/rtp/239.49.8.122:8000
+http://180.119.124.90:4022/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://www.yangfeiyue.cn/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
-http://180.119.6.77:4022/rtp/239.49.8.119:8000
+http://180.119.124.90:4022/rtp/239.49.8.119:8000
 #EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://www.yangfeiyue.cn/tv/文物宝库.png" group-title="卫视高清",文物宝库
-http://180.119.6.77:4022/rtp/239.49.0.209:8000
+http://180.119.124.90:4022/rtp/239.49.0.209:8000
 #EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
-http://180.119.6.77:4022/rtp/239.49.0.214:8000
+http://180.119.124.90:4022/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
-http://180.119.6.77:4022/rtp/239.49.8.30:8000
+http://180.119.124.90:4022/rtp/239.49.8.30:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://180.121.247.253:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -420,22 +380,22 @@ http://180.121.91.73:8888/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
 http://180.121.91.73:8888/rtp/239.49.8.30:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://www.yangfeiyue.cn/tv/江苏城市.png" group-title="卫视高清",江苏城市
-http://222.188.142.246:4022/rtp/239.49.8.107:8000
+http://58.213.175.189:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://www.yangfeiyue.cn/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
-http://222.188.142.246:4022/rtp/239.49.8.108:8000
+http://58.213.175.189:8888/rtp/239.49.8.108:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://www.yangfeiyue.cn/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
-http://222.188.142.246:4022/rtp/239.49.8.117:8000
+http://58.213.175.189:8888/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://www.yangfeiyue.cn/tv/江苏影视.png" group-title="卫视高清",江苏影视
-http://222.188.142.246:4022/rtp/239.49.8.118:8000
+http://58.213.175.189:8888/rtp/239.49.8.118:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://www.yangfeiyue.cn/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
-http://222.188.142.246:4022/rtp/239.49.8.120:8000
+http://58.213.175.189:8888/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://www.yangfeiyue.cn/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
-http://222.188.142.246:4022/rtp/239.49.8.122:8000
+http://58.213.175.189:8888/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://www.yangfeiyue.cn/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
-http://222.188.142.246:4022/rtp/239.49.8.119:8000
+http://58.213.175.189:8888/rtp/239.49.8.119:8000
 #EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://www.yangfeiyue.cn/tv/文物宝库.png" group-title="卫视高清",文物宝库
-http://222.188.142.246:4022/rtp/239.49.0.209:8000
+http://58.213.175.189:8888/rtp/239.49.0.209:8000
 #EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
-http://222.188.142.246:4022/rtp/239.49.0.214:8000
+http://58.213.175.189:8888/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://www.yangfeiyue.cn/tv/盐城1.png" group-title="卫视高清",盐城1
-http://222.188.142.246:4022/rtp/239.49.8.30:8000
+http://58.213.175.189:8888/rtp/239.49.8.30:8000
