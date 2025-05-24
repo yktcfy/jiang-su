@@ -82,4 +82,4 @@ def multicast_province(config_file):
             f.write(channel)
 for config_file in glob.glob(os.path.join('ip', '*_config.txt')):
     multicast_province(config_file)
-print(f"组播地址获取完成")
+print(f"获取完成")
