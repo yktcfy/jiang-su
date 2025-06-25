@@ -19,6 +19,10 @@ http://114.221.238.51:8888/rtp/239.49.0.209:8000
 http://114.221.238.51:8888/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://114.221.238.51:8888/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://114.221.238.51:8888/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://114.221.238.51:8888/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://114.226.231.209:8787/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -39,6 +43,10 @@ http://114.226.231.209:8787/rtp/239.49.0.209:8000
 http://114.226.231.209:8787/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://114.226.231.209:8787/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://114.226.231.209:8787/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://114.226.231.209:8787/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://114.226.5.202:4022/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -59,6 +67,10 @@ http://114.226.5.202:4022/rtp/239.49.0.209:8000
 http://114.226.5.202:4022/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://114.226.5.202:4022/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://114.226.5.202:4022/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://114.226.5.202:4022/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://114.238.59.239:4000/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -79,6 +91,10 @@ http://114.238.59.239:4000/rtp/239.49.0.209:8000
 http://114.238.59.239:4000/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://114.238.59.239:4000/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://114.238.59.239:4000/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://114.238.59.239:4000/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://114.238.59.27:4000/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -99,6 +115,10 @@ http://114.238.59.27:4000/rtp/239.49.0.209:8000
 http://114.238.59.27:4000/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://114.238.59.27:4000/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://114.238.59.27:4000/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://114.238.59.27:4000/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://117.86.50.127:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -119,26 +139,34 @@ http://117.86.50.127:8888/rtp/239.49.0.209:8000
 http://117.86.50.127:8888/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://117.86.50.127:8888/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://117.86.50.127:8888/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://117.86.50.127:8888/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
-http://117.86.50.177:8888/rtp/239.49.8.107:8000
+http://117.86.51.111:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
-http://117.86.50.177:8888/rtp/239.49.8.108:8000
+http://117.86.51.111:8888/rtp/239.49.8.108:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
-http://117.86.50.177:8888/rtp/239.49.8.117:8000
+http://117.86.51.111:8888/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="卫视高清",江苏影视
-http://117.86.50.177:8888/rtp/239.49.8.118:8000
+http://117.86.51.111:8888/rtp/239.49.8.118:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
-http://117.86.50.177:8888/rtp/239.49.8.120:8000
+http://117.86.51.111:8888/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://live.fanmingming.com/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
-http://117.86.50.177:8888/rtp/239.49.8.122:8000
+http://117.86.51.111:8888/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.com/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
-http://117.86.50.177:8888/rtp/239.49.8.119:8000
+http://117.86.51.111:8888/rtp/239.49.8.119:8000
 #EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="卫视高清",文物宝库
-http://117.86.50.177:8888/rtp/239.49.0.209:8000
+http://117.86.51.111:8888/rtp/239.49.0.209:8000
 #EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://live.fanmingming.com/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
-http://117.86.50.177:8888/rtp/239.49.0.214:8000
+http://117.86.51.111:8888/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
-http://117.86.50.177:8888/rtp/239.49.8.30:8000
+http://117.86.51.111:8888/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://117.86.51.111:8888/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://117.86.51.111:8888/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://117.89.53.218:4022/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -159,6 +187,10 @@ http://117.89.53.218:4022/rtp/239.49.0.209:8000
 http://117.89.53.218:4022/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://117.89.53.218:4022/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://117.89.53.218:4022/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://117.89.53.218:4022/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://121.226.125.152:7777/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -179,6 +211,10 @@ http://121.226.125.152:7777/rtp/239.49.0.209:8000
 http://121.226.125.152:7777/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://121.226.125.152:7777/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://121.226.125.152:7777/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://121.226.125.152:7777/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://121.226.15.167:7777/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -199,6 +235,10 @@ http://121.226.15.167:7777/rtp/239.49.0.209:8000
 http://121.226.15.167:7777/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://121.226.15.167:7777/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://121.226.15.167:7777/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://121.226.15.167:7777/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://121.226.15.80:7777/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -219,6 +259,10 @@ http://121.226.15.80:7777/rtp/239.49.0.209:8000
 http://121.226.15.80:7777/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://121.226.15.80:7777/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://121.226.15.80:7777/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://121.226.15.80:7777/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://121.226.23.29:55555/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -239,26 +283,10 @@ http://121.226.23.29:55555/rtp/239.49.0.209:8000
 http://121.226.23.29:55555/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://121.226.23.29:55555/rtp/239.49.8.30:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
-http://121.238.65.228:4000/rtp/239.49.8.107:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
-http://121.238.65.228:4000/rtp/239.49.8.108:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
-http://121.238.65.228:4000/rtp/239.49.8.117:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="卫视高清",江苏影视
-http://121.238.65.228:4000/rtp/239.49.8.118:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
-http://121.238.65.228:4000/rtp/239.49.8.120:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://live.fanmingming.com/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
-http://121.238.65.228:4000/rtp/239.49.8.122:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.com/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
-http://121.238.65.228:4000/rtp/239.49.8.119:8000
-#EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="卫视高清",文物宝库
-http://121.238.65.228:4000/rtp/239.49.0.209:8000
-#EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://live.fanmingming.com/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
-http://121.238.65.228:4000/rtp/239.49.0.214:8000
-#EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
-http://121.238.65.228:4000/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://121.226.23.29:55555/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://121.226.23.29:55555/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://180.105.209.28:4000/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -279,6 +307,10 @@ http://180.105.209.28:4000/rtp/239.49.0.209:8000
 http://180.105.209.28:4000/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://180.105.209.28:4000/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://180.105.209.28:4000/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://180.105.209.28:4000/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://180.105.65.240:9981/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -299,6 +331,10 @@ http://180.105.65.240:9981/rtp/239.49.0.209:8000
 http://180.105.65.240:9981/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://180.105.65.240:9981/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://180.105.65.240:9981/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://180.105.65.240:9981/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://180.107.229.45:5555/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -319,6 +355,10 @@ http://180.107.229.45:5555/rtp/239.49.0.209:8000
 http://180.107.229.45:5555/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://180.107.229.45:5555/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://180.107.229.45:5555/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://180.107.229.45:5555/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://180.111.28.112:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -339,26 +379,10 @@ http://180.111.28.112:8888/rtp/239.49.0.209:8000
 http://180.111.28.112:8888/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://180.111.28.112:8888/rtp/239.49.8.30:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
-http://180.111.28.12:8888/rtp/239.49.8.107:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
-http://180.111.28.12:8888/rtp/239.49.8.108:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
-http://180.111.28.12:8888/rtp/239.49.8.117:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="卫视高清",江苏影视
-http://180.111.28.12:8888/rtp/239.49.8.118:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
-http://180.111.28.12:8888/rtp/239.49.8.120:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://live.fanmingming.com/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
-http://180.111.28.12:8888/rtp/239.49.8.122:8000
-#EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.com/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
-http://180.111.28.12:8888/rtp/239.49.8.119:8000
-#EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="卫视高清",文物宝库
-http://180.111.28.12:8888/rtp/239.49.0.209:8000
-#EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://live.fanmingming.com/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
-http://180.111.28.12:8888/rtp/239.49.0.214:8000
-#EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
-http://180.111.28.12:8888/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://180.111.28.112:8888/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://180.111.28.112:8888/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://180.111.28.146:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -379,6 +403,34 @@ http://180.111.28.146:8888/rtp/239.49.0.209:8000
 http://180.111.28.146:8888/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://180.111.28.146:8888/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://180.111.28.146:8888/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://180.111.28.146:8888/rtp/239.49.0.205:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
+http://180.111.28.61:8888/rtp/239.49.8.107:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
+http://180.111.28.61:8888/rtp/239.49.8.108:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
+http://180.111.28.61:8888/rtp/239.49.8.117:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="卫视高清",江苏影视
+http://180.111.28.61:8888/rtp/239.49.8.118:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
+http://180.111.28.61:8888/rtp/239.49.8.120:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://live.fanmingming.com/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
+http://180.111.28.61:8888/rtp/239.49.8.122:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.com/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
+http://180.111.28.61:8888/rtp/239.49.8.119:8000
+#EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="卫视高清",文物宝库
+http://180.111.28.61:8888/rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://live.fanmingming.com/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
+http://180.111.28.61:8888/rtp/239.49.0.214:8000
+#EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
+http://180.111.28.61:8888/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://180.111.28.61:8888/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://180.111.28.61:8888/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://180.111.28.85:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -399,6 +451,10 @@ http://180.111.28.85:8888/rtp/239.49.0.209:8000
 http://180.111.28.85:8888/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://180.111.28.85:8888/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://180.111.28.85:8888/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://180.111.28.85:8888/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://180.111.29.149:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -419,6 +475,10 @@ http://180.111.29.149:8888/rtp/239.49.0.209:8000
 http://180.111.29.149:8888/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://180.111.29.149:8888/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://180.111.29.149:8888/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://180.111.29.149:8888/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://180.111.29.44:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -439,6 +499,10 @@ http://180.111.29.44:8888/rtp/239.49.0.209:8000
 http://180.111.29.44:8888/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://180.111.29.44:8888/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://180.111.29.44:8888/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://180.111.29.44:8888/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://180.111.29.45:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -459,6 +523,58 @@ http://180.111.29.45:8888/rtp/239.49.0.209:8000
 http://180.111.29.45:8888/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://180.111.29.45:8888/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://180.111.29.45:8888/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://180.111.29.45:8888/rtp/239.49.0.205:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
+http://180.111.80.27:4022/rtp/239.49.8.107:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
+http://180.111.80.27:4022/rtp/239.49.8.108:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
+http://180.111.80.27:4022/rtp/239.49.8.117:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="卫视高清",江苏影视
+http://180.111.80.27:4022/rtp/239.49.8.118:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
+http://180.111.80.27:4022/rtp/239.49.8.120:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://live.fanmingming.com/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
+http://180.111.80.27:4022/rtp/239.49.8.122:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.com/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
+http://180.111.80.27:4022/rtp/239.49.8.119:8000
+#EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="卫视高清",文物宝库
+http://180.111.80.27:4022/rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://live.fanmingming.com/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
+http://180.111.80.27:4022/rtp/239.49.0.214:8000
+#EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
+http://180.111.80.27:4022/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://180.111.80.27:4022/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://180.111.80.27:4022/rtp/239.49.0.205:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
+http://180.114.175.202:4000/rtp/239.49.8.107:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
+http://180.114.175.202:4000/rtp/239.49.8.108:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
+http://180.114.175.202:4000/rtp/239.49.8.117:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="卫视高清",江苏影视
+http://180.114.175.202:4000/rtp/239.49.8.118:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
+http://180.114.175.202:4000/rtp/239.49.8.120:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://live.fanmingming.com/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
+http://180.114.175.202:4000/rtp/239.49.8.122:8000
+#EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.com/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
+http://180.114.175.202:4000/rtp/239.49.8.119:8000
+#EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="卫视高清",文物宝库
+http://180.114.175.202:4000/rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://live.fanmingming.com/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
+http://180.114.175.202:4000/rtp/239.49.0.214:8000
+#EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
+http://180.114.175.202:4000/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://180.114.175.202:4000/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://180.114.175.202:4000/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://180.119.102.214:4022/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -479,46 +595,58 @@ http://180.119.102.214:4022/rtp/239.49.0.209:8000
 http://180.119.102.214:4022/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://180.119.102.214:4022/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://180.119.102.214:4022/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://180.119.102.214:4022/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
-http://180.126.2.128:8800/rtp/239.49.8.107:8000
+http://180.121.91.3:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
-http://180.126.2.128:8800/rtp/239.49.8.108:8000
+http://180.121.91.3:8888/rtp/239.49.8.108:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
-http://180.126.2.128:8800/rtp/239.49.8.117:8000
+http://180.121.91.3:8888/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="卫视高清",江苏影视
-http://180.126.2.128:8800/rtp/239.49.8.118:8000
+http://180.121.91.3:8888/rtp/239.49.8.118:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
-http://180.126.2.128:8800/rtp/239.49.8.120:8000
+http://180.121.91.3:8888/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://live.fanmingming.com/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
-http://180.126.2.128:8800/rtp/239.49.8.122:8000
+http://180.121.91.3:8888/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.com/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
-http://180.126.2.128:8800/rtp/239.49.8.119:8000
+http://180.121.91.3:8888/rtp/239.49.8.119:8000
 #EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="卫视高清",文物宝库
-http://180.126.2.128:8800/rtp/239.49.0.209:8000
+http://180.121.91.3:8888/rtp/239.49.0.209:8000
 #EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://live.fanmingming.com/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
-http://180.126.2.128:8800/rtp/239.49.0.214:8000
+http://180.121.91.3:8888/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
-http://180.126.2.128:8800/rtp/239.49.8.30:8000
+http://180.121.91.3:8888/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://180.121.91.3:8888/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://180.121.91.3:8888/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
-http://180.126.216.20:8800/rtp/239.49.8.107:8000
+http://180.126.169.71:8800/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
-http://180.126.216.20:8800/rtp/239.49.8.108:8000
+http://180.126.169.71:8800/rtp/239.49.8.108:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏休闲体育" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="卫视高清",江苏休闲体育
-http://180.126.216.20:8800/rtp/239.49.8.117:8000
+http://180.126.169.71:8800/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="卫视高清",江苏影视
-http://180.126.216.20:8800/rtp/239.49.8.118:8000
+http://180.126.169.71:8800/rtp/239.49.8.118:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏新闻.png" group-title="卫视高清",江苏新闻
-http://180.126.216.20:8800/rtp/239.49.8.120:8000
+http://180.126.169.71:8800/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏教育电视台" tvg-logo="https://live.fanmingming.com/tv/江苏教育电视台.png" group-title="卫视高清",江苏教育电视台
-http://180.126.216.20:8800/rtp/239.49.8.122:8000
+http://180.126.169.71:8800/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.com/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
-http://180.126.216.20:8800/rtp/239.49.8.119:8000
+http://180.126.169.71:8800/rtp/239.49.8.119:8000
 #EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="卫视高清",文物宝库
-http://180.126.216.20:8800/rtp/239.49.0.209:8000
+http://180.126.169.71:8800/rtp/239.49.0.209:8000
 #EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://live.fanmingming.com/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
-http://180.126.216.20:8800/rtp/239.49.0.214:8000
+http://180.126.169.71:8800/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
-http://180.126.216.20:8800/rtp/239.49.8.30:8000
+http://180.126.169.71:8800/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://180.126.169.71:8800/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://180.126.169.71:8800/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://49.68.118.189:10000/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -539,6 +667,10 @@ http://49.68.118.189:10000/rtp/239.49.0.209:8000
 http://49.68.118.189:10000/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://49.68.118.189:10000/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://49.68.118.189:10000/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://49.68.118.189:10000/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://49.77.104.76:8554/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -559,6 +691,10 @@ http://49.77.104.76:8554/rtp/239.49.0.209:8000
 http://49.77.104.76:8554/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://49.77.104.76:8554/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://49.77.104.76:8554/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://49.77.104.76:8554/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="卫视高清",江苏城市
 http://49.88.119.125:4000/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视高清",江苏综艺
@@ -579,3 +715,7 @@ http://49.88.119.125:4000/rtp/239.49.0.209:8000
 http://49.88.119.125:4000/rtp/239.49.0.214:8000
 #EXTINF:-1 tvg-id="1" tvg-name="盐城1" tvg-logo="https://live.fanmingming.com/tv/盐城1.png" group-title="卫视高清",盐城1
 http://49.88.119.125:4000/rtp/239.49.8.30:8000
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://49.88.119.125:4000/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://49.88.119.125:4000/rtp/239.49.0.205:8000
